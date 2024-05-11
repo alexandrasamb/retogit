@@ -1,13 +1,15 @@
 # POYECTO RETOGIT
 
 
-![Carrera](img1/coche abstracto.jpg)
+![Carrera](img1/cocheabstracto.jpg)
 
 
 ## Características:
 
 -Codigo java
+
 -Diferentes clases
+
 -Carrera
 
 
